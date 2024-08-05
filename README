@@ -1,18 +1,1 @@
--- TEAM --
-
-Tayseer Karrossi (tkarros1)
-Wech Ring (wring1)
-Mahendra Shahi (mshahi2)
-
--- DESIGN -- 
-
-We designed our project to handle a certain file step by step. This approach makes it easier for us to structure and organize everything. 
-We began by working on the "expr" file, which allowed us to create a tree. Then, we worked on the parser to parse the function equations. 
-Next, we created fields and methods for plot, so that all the input could be located in their respective places. After that, we worked on 
-the "reader" file, which extracts information such as "Plot", "Color", "Functions", and "Fills" from the file. Once we successfully read 
-and extracted all the necessary information, we moved on to the renderer to output the image. From there, we worked on the image itself. 
-Finally, we cleaned up the code and added any other necessary functions.
-
--- COMPLETENESS -- 
-
-The project does not have any missing/incorrect functionalities. It is 100% complete and passes all autograder tests on Gradescope. 
+This project aimed to interact with a mathematical equation and visualize it.
