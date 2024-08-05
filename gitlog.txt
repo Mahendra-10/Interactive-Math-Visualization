@@ -1,0 +1,317 @@
+commit 85ea0d8f914cd1ba894b4140c2e1cc68579b7e29
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Fri Dec 8 22:48:59 2023 -0500
+
+    fixing gitlog
+
+commit b6632bacba86f6d687a4c8da46fe351a13a1fda5
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Fri Dec 8 22:48:15 2023 -0500
+
+    removing unneccasary code
+
+commit 210fa9b79bd180dd347364e8f9a76a1566a7496f
+Merge: 7fb8777 ef85572
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Fri Dec 8 22:46:30 2023 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-fall-final-mshahi2-tkarros1-wring1
+
+commit 7fb877708ced3e584f5173e0b9f07aa508b82512
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Fri Dec 8 22:46:14 2023 -0500
+
+    fixing gitlog
+
+commit c288c5339d5ef83e73ccff29bccea80dc28873cf
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Fri Dec 8 22:45:45 2023 -0500
+
+    adding more comments
+
+commit ef855728d06fd402e3b79a9a3815fc1f825b77b2
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 22:32:08 2023 -0500
+
+    added design for README
+
+commit 9de4b9860095ce4e837092bf62b54488332b6575
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 22:30:40 2023 -0500
+
+    comments for func.h
+
+commit db93e3700c6b2a4b5c83fb82a7b401e3097c6701
+Merge: e2ed0a6 d7deb4f
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Fri Dec 8 22:28:32 2023 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-fall-final-mshahi2-tkarros1-wring1
+
+commit e2ed0a6c01c31971f3d5410be3a0d2a60d7aabd6
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Fri Dec 8 22:28:03 2023 -0500
+
+    fixing spacing
+
+commit d7deb4f5011bec10cbec95dbd93c996c368e4494
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 22:27:07 2023 -0500
+
+    comments for fill.h
+
+commit 857036b5ab9e1b5686071be5f8488fc40d2c5399
+Merge: 1b8fff2 f053717
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Fri Dec 8 22:23:37 2023 -0500
+
+    Merge branch 'master' of https://github.com/jhu-ip/2023-fall-final-mshahi2-tkarros1-wring1
+
+commit 1b8fff2b8305582323d20e887a4bc4dfbe8ccd9f
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Fri Dec 8 22:19:33 2023 -0500
+
+    fixxing errors
+
+commit f053717080cbac485c4e4409e6ab46e35df46eb1
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 22:17:24 2023 -0500
+
+    comments for expr_parser.h
+
+commit 3f3af690190bdc2ea324de5feea2b3dfb1179942
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 22:10:45 2023 -0500
+
+    all comments for expr_parser.cpp
+
+commit 631afd192312a74ae99d709caa04e76ef640a88c
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 22:01:45 2023 -0500
+
+    all comments for expr.h
+
+commit 41566f34895d79df5fb59fc6982b0b919b2405ee
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 21:51:00 2023 -0500
+
+    all comments for expr.cpp
+
+commit abe45d638a1b64f60e02b3345637b727cc050be6
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 21:12:13 2023 -0500
+
+    all comments for exception.h
+
+commit 80b08b7412c4fc7c0df4c7b8fcfcab07a9eb3a1d
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 21:08:56 2023 -0500
+
+    all comments for exception.cpp
+
+commit b5f7dc0a7493aef6eb6478afe73bd5d147a7f4e4
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 21:02:42 2023 -0500
+
+    all comments for color.h
+
+commit 3ef2bfac845442656f479870342882195f3f9b2f
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 20:54:32 2023 -0500
+
+    all comments for bounds.h
+
+commit 8f4bd86e7dfc665c810f0578eeade3a1d3ea7299
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 20:45:33 2023 -0500
+
+    added all comments for bounds.cpp
+
+commit c12f986c74c5a53bea59823d98787c31e59387f3
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Fri Dec 8 20:37:42 2023 -0500
+
+    added TEAM and COMPLETENESS for README
+
+commit fb9cf76e6a7a647460a1093c1dabba3d8f03f8d6
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Fri Dec 8 19:49:43 2023 -0500
+
+    added exception and fixed errors
+
+commit 49979faca296b473c5798c692774f492965c14f7
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Fri Dec 8 15:37:03 2023 -0500
+
+    added new exceptions to different files and erros
+
+commit e56f28cdb9610161c9660862db1b85fd42e4b61d
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Thu Dec 7 23:24:14 2023 -0500
+
+    got rid of test comment
+
+commit 0cacfe16f465da4070a220469a7588562c629488
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Thu Dec 7 23:02:27 2023 -0500
+
+    fixed parser file, memory issues and sucessfuly render the image
+
+commit 62815483614465f4cf3794640263f4ae63769244
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Wed Dec 6 23:23:25 2023 -0500
+
+    added destructor where its needed and handle exception
+
+commit 3d135b80cabd2b3a03e80a27c7c928ee2ddde286
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Wed Dec 6 15:09:04 2023 -0500
+
+    finished the renderer file and made changes to other files
+
+commit 643d6f042624e06f8f003f2cda23bc5e0ad75675
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Tue Dec 5 19:34:43 2023 -0500
+
+    created Fillbetween fillabove and fillbelow
+
+commit 40c3bc83fb21563c1b37318b9596d76febd95712
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Mon Dec 4 19:34:34 2023 -0500
+
+    fixing uses of functions and constructors
+
+commit e3d8ec1bfc19a1f64e82e487fff9cbf27cabde50
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Mon Dec 4 16:56:24 2023 -0500
+
+    adding inheritance from fill
+
+commit 49af352f5ee8908ff0b55f3c0a0b85455c7494f1
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Mon Dec 4 16:27:34 2023 -0500
+
+    creating constructor for bounds and reading them from file
+
+commit d163c407ced9c00e19cf3ba48615b393a3a5930e
+Merge: 45d344c 1cbae62
+Author: Mahendra-777 <143361812+Mahendra-777@users.noreply.github.com>
+Date:   Mon Dec 4 15:57:27 2023 -0500
+
+    Merge pull request #1 from jhu-ip/branch1
+    
+    Branch1
+
+commit 1cbae6225d0b86526f980428798e1a03e525ecd1
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Mon Dec 4 15:56:34 2023 -0500
+
+    worked on reader file
+
+commit 303df4d91db25afe72567f4076bb8806704b32ed
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Mon Dec 4 15:46:13 2023 -0500
+
+    worked on reader file to read the input
+
+commit 3b6733c2365c533a6dc28b7efbddc9bf96fd7b69
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Mon Dec 4 15:43:55 2023 -0500
+
+    adding to the reader cpp
+
+commit 45d344c092337348769a371c88147e7320816ddf
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Mon Dec 4 15:33:32 2023 -0500
+
+    minor changes to comments
+
+commit c9bdb42a69d175364951fcf8f9db03fe25e10ddd
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Sat Dec 2 21:54:11 2023 -0500
+
+    worked on renderer, plot.h, fill added above, below and between
+
+commit 4e8a5e92019757bed9377927156b9b38119aae84
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Sat Dec 2 18:07:54 2023 -0500
+
+    addign functions to the cpp file
+
+commit c2bf9503e506e02d71903772f60b3d84bab87c45
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Sat Dec 2 17:58:13 2023 -0500
+
+    adding cpp file for plot
+
+commit 25dc122a7742fb6eb60d015a3290cc11eb7ceb29
+Author: Wech Ring <wechring12@gmail.com>
+Date:   Sat Dec 2 17:40:50 2023 -0500
+
+    creating the plot header file
+
+commit db9db1d15450b8cab04a565eaf2b3ed6e56eba6a
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Sat Dec 2 17:12:00 2023 -0500
+
+    Update fill.h
+
+commit c24bad5ad178ca45e534083273f26e4cc4ab75f7
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Sat Dec 2 17:10:06 2023 -0500
+
+    added deconstructor, constructor, and getters
+
+commit 1c4842febf61b327a4ac8ce0fde021cb20dfbbac
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Sat Dec 2 16:45:31 2023 -0500
+
+    deallocating memory for m_expr
+
+commit f11f4b47f5934d00e707a671d9ecd614d8ffbfb7
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Sat Dec 2 16:12:08 2023 -0500
+
+    Update bounds.cpp
+
+commit bdaec56b85d62f9012bf3e83ee084a78e0a277a0
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Sat Dec 2 16:11:19 2023 -0500
+
+    Update bounds.h
+
+commit 42ccca98f89b8c81c7bc6ab4fdc48e8e82932ec4
+Author: tayseerk <143665896+tayseerk@users.noreply.github.com>
+Date:   Sat Dec 2 16:05:38 2023 -0500
+
+    added getters
+
+commit 8ab0e529eb09fe4fe9bfb22a2b80abc3c228d40b
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Fri Dec 1 15:28:03 2023 -0500
+
+    made more changes
+
+commit bd4fbf21ed0e572da88cae12d9c3c239d552e5cf
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Fri Dec 1 02:48:58 2023 -0500
+
+    added comments
+
+commit 430b83f6761629a59a8ec7da9f55d84ff4c06b39
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Wed Nov 29 22:33:31 2023 -0500
+
+    worked on the reader file
+
+commit 2e0a324d8feae1822f39072840a0c224e59776b0
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Wed Nov 29 15:59:35 2023 -0500
+
+    helper comment
+
+commit cb9a3badc983159311461a26774612b4eaeec6da
+Author: Mahendra <smahendrabikram@gmail.com>
+Date:   Mon Nov 27 16:02:50 2023 -0500
+
+    worked on expr.h/.cpp and expr_Parse.h/cpp file
